@@ -4,7 +4,7 @@
 * IBM云官网：https://cloud.ibm.com/
 * 注册账号 - 登录
 * Cloud Foubdry -> 公共
-* 新建->256M->Go社区
+* 新建->256M->Go社区(随便选，不要选Tomcat)
 * 应用程序名自定义(访问得二级域名)
 * 右部创建即可
 * 创建后会跳转开机，点击右上 Cloud Shell 即可进入机器
